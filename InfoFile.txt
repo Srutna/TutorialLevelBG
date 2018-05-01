@@ -1,0 +1,6 @@
+.ai files for adobe illustrator.
+.png are the actual files for sprite images.
+
+Dimensions on GMS can vary.
+
+origin topCenter/middleCenter.
